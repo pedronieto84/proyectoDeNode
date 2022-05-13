@@ -1,0 +1,11 @@
+{
+  "name": "proyectodenode",
+  "version": "1.0.0",
+  "description": "Ejemplo de inicialización rápida de un proyecto de Node con Express y Nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
